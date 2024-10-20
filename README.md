@@ -51,7 +51,7 @@ Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca d
 ---
 
 ## 🎯 Inspiração Diária
-> "O maior risco é não assumir nenhum risco. Em um mundo que muda realmente rapidamente, a única estratégia que é garantidamente fracassada é não assumir riscos." — Mark Zuckerberg
+> "O maior risco é não assumir nenhum risco. Em um mundo que muda rapidamente, a única estratégia garantida para falhar é não correr riscos" — Mark Zuckerberg
 
 ---
 
