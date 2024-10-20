@@ -1,5 +1,5 @@
 ### 👋 Olá!
-Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca de aprender mais! 🚀 Atualmente, estou cursando Engenharia da Computação pela Univesp.
+Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca de evolução! 🚀 Atualmente, graduando em Engenharia da Computação pela Univesp.
 
 <div>
 <a href="https://github.com/samuel-sabinodasilva1303">
@@ -43,7 +43,7 @@ Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca d
 
 ## 🚀 Minha Jornada
 
-- **2020**: Iniciei meus estudos em desenvolvimento web, focando em front-end e back-end com JavaScript, Node.js e PHP.
+- **2020**: Iniciei meus estudos em desenvolvimento web, focando em front-end e back-end com JavaScript, CSS e PHP.
 - **2021**: Aprofundei-me em React e desenvolvi projetos em PHP com Laravel.
 - **2022**: Comecei a trabalhar com diversas tecnologias front-end e back-end, especialmente em projetos com WordPress e Laravel.
 - **2023 e além**: Focado em melhorar minhas habilidades como Full Stack, explorando tecnologias como Vue.js, Next.js e Firebase.
@@ -51,7 +51,7 @@ Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca d
 ---
 
 ## 🎯 Inspiração Diária
-> "Programar é como escrever um livro... exceto que, se você esquecer uma única vírgula em algum lugar, tudo desmorona." — Donald Knuth
+> "O maior risco é não assumir nenhum risco. Em um mundo que muda realmente rapidamente, a única estratégia que é garantidamente fracassada é não assumir riscos." — Mark Zuckerberg
 
 ---
 
