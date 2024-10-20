@@ -56,5 +56,6 @@ Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca d
 ---
 
 ### 🌍 Me encontre por aí
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seunumerodetelefone)
+### 🌍 Me encontre por aí
+[![[LinkedIn](https://www.linkedin.com/in/samuel-sabino/)](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario){:target="_blank"}
+[![[WhatsApp](https://wa.me/5514981176465)](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seunumerodetelefone){:target="_blank"}
