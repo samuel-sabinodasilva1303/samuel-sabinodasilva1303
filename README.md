@@ -1,4 +1,4 @@
-### 👋 Olá!
+### Hello my friend 👋 !
 Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca de evolução! 🚀 Atualmente, graduando em Engenharia da Computação pela Univesp.
 
 <div>
