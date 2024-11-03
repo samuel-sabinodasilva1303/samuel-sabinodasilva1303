@@ -13,7 +13,7 @@ Sou desenvolvedor Fullstack apaixonado por novas tecnologias e sempre em busca d
 
 | 💻 Tecnologias    | 🚀 Projetos em Andamento   | 🎯 Estatísticas do GitHub    |
 |------------------ |---------------------------|-----------------------------|
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [IdeiaPix-Tema]([https://github.com/samuel-sabinodasilva1303](https://github.com/samuel-sabinodasilva1303/tema-sport-ideiaPix)) | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-sabinodasilva1303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | [IdeiaPix](https://github.com/samuel-sabinodasilva1303/tema-sport-ideiaPix) | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-sabinodasilva1303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> |
 | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sabinodasilva1303&layout=compact&langs_count=7&theme=dracula"/> |
 
 ---
